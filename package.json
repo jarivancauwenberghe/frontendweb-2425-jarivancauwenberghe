@@ -1,0 +1,80 @@
+{
+  "name": "2425-webservices-jarivancauwenberghe",
+  "version": "1.0.0",
+  "description": "Movie Review API developed in TypeScript",
+  "main": "dist/core/index.js",
+  "scripts": {
+    "start": "npx env-cmd -f .env.production node dist/core/index.js",
+    "start:dev": "npx env-cmd -f .env.development tsx src/core/index.ts",
+    "build": "npx rimraf dist && tsc",
+    "start:prod": "npm run build && npm run start",
+    "test": "npx env-cmd -f .env.test jest --coverage --detectOpenHandles",
+    "test:clean": "npx env-cmd -f .env.test tsx src/data/seed_data.ts && npm run test",
+    "lint": "eslint src/**/*.ts",
+    "seed": "npx env-cmd -f .env.development tsx src/data/seed_data.ts",
+    "typeorm": "npx env-cmd -f .env.development tsx -r tsconfig-paths/register ./node_modules/typeorm/cli.js",
+    "migration:generate": "npm run typeorm migration:generate -- -n",
+    "migration:run": "npm run typeorm migration:run",
+    "migration:revert": "npm run typeorm migration:revert"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      "/config/"
+    ],
+    "preset": "ts-jest",
+    "testEnvironment": "node",
+    "testMatch": [
+      "src/__tests__/**/*.ts",
+      "**/?(*.)+(spec|test).ts"
+    ]
+  },
+  "dependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/body-parser": "^1.19.2",
+    "@types/config": "^3.3.4",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.13",
+    "@types/jest": "^29.5.12",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/koa": "^2.15.0",
+    "@types/supertest": "^2.0.16",
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.12.0",
+    "axios": "^1.3.1",
+    "bcrypt": "^5.1.1",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.1",
+    "config": "^3.3.12",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "env-cmd": "^10.1.0",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "express": "^4.18.2",
+    "express-oauth2-jwt-bearer": "^1.6.0",
+    "express-validator": "^6.14.2",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "koa": "^2.15.3",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.11.0",
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.0",
+    "reflect-metadata": "^0.2.2",
+    "supertest": "^7.0.0",
+    "ts-jest": "^29.2.4",
+    "ts-log-debug": "^5.5.3",
+    "ts-node": "^10.9.1",
+    "tsx": "^3.12.7",
+    "typeorm": "^0.3.20",
+    "typescript": "^4.9.5",
+    "winston": "^3.13.1",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "devDependencies": {
+    "tsconfig-paths": "^4.2.0",
+    "rimraf": "^3.0.2"
+  }
+} 

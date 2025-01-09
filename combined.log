@@ -1,0 +1,85 @@
+{"level":"info","message":"🚀 Server is running on port 3000","timestamp":"2024-08-05T20:45:09.457Z"}
+{"level":"info","message":"🚀 Server is running on port 3000","timestamp":"2024-08-05T21:03:08.058Z"}
+{"level":"info","message":"User created successfully","timestamp":"2024-08-05T21:06:13.252Z"}
+{"level":"info","message":"User created successfully with id 58","timestamp":"2024-08-05T21:06:13.265Z"}
+{"level":"info","message":"Movie created successfully","movieId":40,"timestamp":"2024-08-05T21:07:02.491Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T21:07:46.869Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T21:07:46.872Z"}
+{"level":"info","message":"Movie created successfully","movieId":42,"timestamp":"2024-08-05T21:08:47.308Z"}
+{"level":"info","message":"🚀 Server is running on port 3000","timestamp":"2024-08-05T21:56:05.751Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T22:04:21.945Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T22:04:21.959Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T22:04:31.488Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T22:04:31.511Z"}
+{"level":"info","message":"Movie created successfully","movieId":2,"timestamp":"2024-08-05T22:04:32.245Z"}
+{"level":"info","message":"User created successfully","timestamp":"2024-08-05T22:04:34.092Z"}
+{"level":"info","message":"User created successfully with id 2","timestamp":"2024-08-05T22:04:34.095Z"}
+{"level":"info","message":"Movie created successfully","movieId":1,"timestamp":"2024-08-05T22:14:57.152Z"}
+{"level":"info","message":"Movie created successfully","movieId":1,"timestamp":"2024-08-05T22:15:17.500Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:26.898Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:27.283Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:36.226Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:36.324Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:36.425Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:36.628Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:38.809Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:38.831Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:27.769Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:27.921Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:28.008Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:28.469Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:30.504Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:30.564Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:31.820Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:31.888Z"}
+{"level":"info","message":"🚀 Server is running on port 3000","timestamp":"2024-08-05T23:01:44.331Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:09.690Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:09.835Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:11.405Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:11.532Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:12.943Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:13.053Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:14.165Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:14.236Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:29:02.253Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:29:02.271Z"}
+{"level":"info","message":"Movie created successfully","movieId":6,"timestamp":"2024-08-05T23:29:02.367Z"}
+{"level":"info","message":"User created successfully","timestamp":"2024-08-05T23:29:04.319Z"}
+{"level":"info","message":"User created successfully with id 6","timestamp":"2024-08-05T23:29:04.321Z"}
+{"level":"info","message":"Movie created successfully","movieId":7,"timestamp":"2024-08-05T23:29:05.301Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:29:05.857Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:29:05.866Z"}
+{"level":"info","message":"Movie created successfully","movieId":8,"timestamp":"2024-08-05T23:37:50.413Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:37:51.596Z"}
+{"level":"info","message":"Movie created successfully","movieId":9,"timestamp":"2024-08-05T23:37:52.398Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:37:52.453Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:37:52.465Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:37:54.435Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:37:54.477Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:37:54.664Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:44:15.287Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:44:19.477Z"}
+{"level":"info","message":"Movie created successfully","movieId":10,"timestamp":"2024-08-05T23:44:19.846Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:44:21.041Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:44:21.045Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:44:21.705Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:44:21.708Z"}
+{"level":"info","message":"Movie created successfully","movieId":11,"timestamp":"2024-08-05T23:44:21.758Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:57:30.250Z"}
+{"level":"warn","message":"User with id 999 not found","timestamp":"2024-08-05T23:57:30.579Z"}
+{"level":"error","message":"Error fetching user with id 999: User with id 999 not found","timestamp":"2024-08-05T23:57:30.581Z"}
+{"level":"info","message":"Movie created successfully","movieId":12,"timestamp":"2024-08-05T23:57:31.048Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:57:31.325Z"}
+{"level":"warn","message":"User with id 999 not found","timestamp":"2024-08-05T23:57:31.454Z"}
+{"level":"error","message":"Error fetching user with id 999: User with id 999 not found","timestamp":"2024-08-05T23:57:31.461Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:57:33.232Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:57:33.240Z"}
+{"level":"warn","message":"Review with id 999 not found","timestamp":"2024-08-05T23:57:33.287Z"}
+{"level":"error","message":"Error getting review with id 999: Review with id 999 not found","timestamp":"2024-08-05T23:57:33.288Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:57:33.907Z"}
+{"level":"info","message":"Review created successfully","timestamp":"2024-08-05T23:57:33.909Z"}
+{"level":"warn","message":"Review with id 999 not found","timestamp":"2024-08-05T23:57:33.929Z"}
+{"level":"error","message":"Error getting review with id 999: Review with id 999 not found","timestamp":"2024-08-05T23:57:33.930Z"}
+{"level":"info","message":"Movie created successfully","movieId":13,"timestamp":"2024-08-05T23:57:34.355Z"}
+{"level":"info","message":"🚀 Server is running on port 3000","timestamp":"2024-08-06T00:00:35.426Z"}
+{"level":"info","message":"🚀 Server is running on port 3000","timestamp":"2024-08-06T17:52:19.202Z"}

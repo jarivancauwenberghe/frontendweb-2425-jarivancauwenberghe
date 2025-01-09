@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "rootDir": "src",
+    "outDir": "dist",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "typeRoots": ["./node_modules/@types", "./src"],
+    "types": ["node", "jest"],
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "moduleResolution": "node"
+  },
+  "include": ["src/**/*.ts", "src/custom.d.ts", "src/migration/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
+
+/**
+ * Tests & Notes:
+ * - The configuration is good for a TypeORM + TS + Jest setup.
+ * - Ensure noImplicitAny and strict mode help catch type errors.
+ * - sourceMap for easier debugging if needed.
+ */

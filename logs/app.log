@@ -1,0 +1,430 @@
+2024-07-29T16:38:44.100Z error: Error starting server:
+2024-07-29T16:38:46.316Z error: Error starting server:
+2024-07-29T16:38:48.002Z error: Error starting server:
+2024-07-29T16:41:12.866Z info: Movie created successfully
+2024-07-29T16:41:12.917Z info: Movie updated successfully
+2024-07-29T16:41:13.028Z info: Movie deleted successfully
+2024-07-29T16:55:15.256Z error: Error starting server:
+2024-07-29T16:55:17.576Z error: Error starting server:
+2024-07-29T16:55:19.265Z error: Error starting server:
+2024-07-29T17:07:46.296Z error: Error starting server:
+2024-07-29T17:07:48.102Z info: Movie created successfully
+2024-07-29T17:07:48.165Z info: Movie updated successfully
+2024-07-29T17:07:48.194Z info: Movie deleted successfully
+2024-07-30T15:49:28.697Z error: Error starting server:
+2024-07-30T15:49:30.465Z error: Error starting server:
+2024-07-30T15:49:32.384Z error: Error starting server:
+2024-07-30T20:57:10.100Z info: 🚀 Server is running on port 4000
+2024-07-30T20:57:30.295Z info: Review created successfully
+2024-07-30T20:57:50.365Z info: Review updated successfully
+2024-07-30T20:58:10.406Z info: Review deleted successfully
+2024-07-30T20:58:32.174Z info: 🚀 Server is running on port 4000
+2024-07-30T20:58:52.391Z info: Movie created successfully
+2024-07-30T20:59:12.479Z info: Movie updated successfully
+2024-07-30T20:59:32.535Z info: Movie deleted successfully
+2024-07-30T20:59:54.257Z info: 🚀 Server is running on port 4000
+2024-07-30T21:00:34.381Z info: User updated successfully
+2024-07-30T21:00:34.412Z info: User deleted successfully
+2024-07-31T00:27:30.664Z info: 🚀 Server is running on port 4000
+2024-07-31T00:27:50.867Z info: Review created successfully
+2024-07-31T00:28:10.964Z info: Review updated successfully
+2024-07-31T00:28:31.021Z info: Review deleted successfully
+2024-07-31T00:28:53.771Z info: 🚀 Server is running on port 4000
+2024-07-31T00:29:13.902Z info: Movie created successfully
+2024-07-31T00:29:33.960Z info: Movie updated successfully
+2024-07-31T00:29:54.001Z info: Movie deleted successfully
+2024-07-31T00:30:16.795Z info: 🚀 Server is running on port 4000
+2024-07-31T00:30:57.035Z info: User updated successfully
+2024-07-31T00:30:57.070Z info: User deleted successfully
+2024-07-31T02:18:33.030Z info: 🚀 Server is running on port 4000
+2024-07-31T02:19:13.194Z info: User updated successfully
+2024-07-31T02:19:13.240Z info: User deleted successfully
+2024-07-31T02:19:15.647Z info: 🚀 Server is running on port 4000
+2024-07-31T02:19:35.789Z info: Review created successfully
+2024-07-31T02:19:55.847Z info: Review updated successfully
+2024-07-31T02:20:15.892Z info: Review deleted successfully
+2024-07-31T02:20:38.299Z info: 🚀 Server is running on port 4000
+2024-07-31T02:20:58.416Z info: Movie created successfully
+2024-07-31T02:21:18.481Z info: Movie updated successfully
+2024-07-31T02:21:38.525Z info: Movie deleted successfully
+2024-07-31T02:40:39.789Z info: 🚀 Server is running on port 4000
+2024-07-31T02:40:59.955Z info: Review created successfully
+2024-07-31T02:41:20.052Z info: Review updated successfully
+2024-07-31T02:41:40.098Z info: Review deleted successfully
+2024-07-31T02:42:05.609Z info: 🚀 Server is running on port 4000
+2024-07-31T02:42:26.046Z info: Movie created successfully
+2024-07-31T02:42:46.104Z info: Movie updated successfully
+2024-07-31T02:43:06.147Z info: Movie deleted successfully
+2024-07-31T02:43:33.539Z info: 🚀 Server is running on port 4000
+2024-07-31T02:44:13.674Z info: User updated successfully
+2024-07-31T02:44:13.701Z info: User deleted successfully
+2024-07-31T14:40:22.798Z info: 🚀 Server is running on port 3000
+2024-07-31T15:12:07.028Z info: 🚀 Server is running on port 3000
+2024-07-31T15:12:25.908Z info: Movie created successfully
+2024-07-31T15:16:13.986Z info: Movie updated successfully
+2024-07-31T15:29:57.870Z info: 🚀 Server is running on port 3000
+2024-07-31T15:33:49.607Z info: 🚀 Server is running on port 3000
+2024-07-31T15:37:32.895Z info: 🚀 Server is running on port 3000
+2024-07-31T15:51:05.540Z info: 🚀 Server is running on port 3000
+2024-07-31T15:51:47.821Z info: Movie created successfully
+2024-07-31T15:51:58.490Z info: Movie updated successfully
+2024-07-31T15:54:58.905Z info: 🚀 Server is running on port 3000
+2024-07-31T17:46:54.042Z info: Review created successfully
+2024-07-31T17:46:54.992Z info: Movie created successfully
+2024-07-31T18:13:31.746Z info: 🚀 Server is running on port 3000
+2024-07-31T18:32:52.590Z info: 🚀 Server is running on port 3000
+2024-07-31T18:33:45.044Z info: 🚀 Server is running on port 3000
+2024-07-31T18:33:50.075Z error: Port 3000 is already in use. Trying a different port...
+2024-07-31T18:33:50.079Z info: 🚀 Server is running on port 3001
+2024-07-31T18:43:57.336Z info: 🚀 Server is running on port 3000
+2024-07-31T18:43:57.339Z error: Port 3000 is already in use. Trying a different port...
+2024-07-31T18:43:57.345Z info: 🚀 Server is running on port 3001
+2024-07-31T18:44:00.337Z error: Port 3000 is already in use. Trying a different port...
+2024-07-31T18:44:00.341Z error: Port 3001 is already in use. Trying a different port...
+2024-07-31T18:44:00.342Z info: 🚀 Server is running on port 3002
+2024-07-31T18:44:18.422Z info: 🚀 Server is running on port 3000
+2024-08-01T12:45:54.112Z info: 🚀 Server is running on port 3000
+2024-08-01T13:01:02.678Z warn: No reviews found
+2024-08-01T13:04:03.474Z info: Movie created successfully
+2024-08-01T13:14:42.120Z info: Movie updated successfully
+2024-08-01T13:15:18.155Z info: Movie deleted successfully
+2024-08-01T13:15:41.555Z warn: No reviews found
+2024-08-01T13:16:06.017Z warn: No reviews found
+2024-08-01T13:17:13.306Z info: Review created successfully
+2024-08-01T13:19:05.622Z info: Review updated successfully
+2024-08-01T13:19:23.956Z info: Review deleted successfully
+2024-08-01T13:20:01.852Z warn: No reviews found
+2024-08-01T13:20:50.550Z info: Movie created successfully
+2024-08-01T13:22:30.154Z info: Review created successfully
+2024-08-01T13:49:54.768Z info: 🚀 Server is running on port 3000
+2024-08-01T13:52:50.627Z info: Review with id 2 deleted successfully
+2024-08-01T13:52:55.935Z warn: No reviews found
+2024-08-01T13:52:55.935Z error: Error getting all reviews: No reviews found
+2024-08-01T13:52:55.936Z error: No reviews found
+2024-08-01T13:53:30.275Z info: Review created successfully
+2024-08-01T13:54:05.686Z info: Review with id 3 updated successfully
+2024-08-01T13:58:17.336Z info: Movie updated successfully
+2024-08-01T13:58:34.199Z info: Movie deleted successfully
+2024-08-01T13:59:44.366Z info: Review with id 3 deleted successfully
+2024-08-01T14:05:02.011Z info: Movie created successfully
+2024-08-01T14:05:13.231Z info: Movie updated successfully
+2024-08-01T14:05:25.707Z info: Movie deleted successfully
+2024-08-01T14:24:10.551Z info: 🚀 Server is running on port 3000
+2024-08-01T14:25:34.646Z info: Fetched all users
+2024-08-01T14:25:34.651Z info: Fetched all users successfully
+2024-08-01T15:04:58.697Z info: 🚀 Server is running on port 3000
+2024-08-01T15:06:11.211Z info: 🚀 Server is running on port 3000
+2024-08-01T15:06:57.127Z info: Movie created successfully
+2024-08-01T15:07:09.909Z info: Movie updated successfully
+2024-08-01T15:07:15.784Z info: Movie deleted successfully
+2024-08-01T15:09:45.551Z info: Fetched all users successfully
+2024-08-01T15:09:45.555Z info: Fetched all users successfully
+2024-08-01T15:35:51.864Z info: 🚀 Server is running on port 3000
+2024-08-01T15:36:11.167Z info: GET / - 10ms
+2024-08-01T15:37:07.802Z info: GET / - 1ms
+2024-08-01T15:37:16.113Z info: Movie created successfully
+2024-08-01T15:37:35.601Z info: Movie updated successfully
+2024-08-01T15:37:41.756Z info: Movie deleted successfully
+2024-08-01T15:37:53.824Z warn: No reviews found
+2024-08-01T15:37:53.824Z error: Error getting all reviews: No reviews found
+2024-08-01T15:37:53.825Z error: No reviews found
+2024-08-01T15:38:18.278Z info: Fetched all users successfully
+2024-08-01T15:38:18.279Z info: Fetched all users successfully
+2024-08-01T15:38:51.111Z info: Movie created successfully
+2024-08-01T15:39:22.688Z info: Fetched all users successfully
+2024-08-01T15:39:22.689Z info: Fetched all users successfully
+2024-08-01T15:40:08.820Z info: Fetched user with id 56 successfully
+2024-08-01T15:40:08.820Z info: Fetched user with id 56 successfully
+2024-08-01T15:40:39.049Z info: Fetched user with id 56 successfully
+2024-08-01T15:40:39.049Z info: Updated user with id 56 successfully
+2024-08-01T15:40:39.050Z info: Updated user with id 56 successfully
+2024-08-01T15:41:06.160Z info: Fetched all users successfully
+2024-08-01T15:41:06.161Z info: Fetched all users successfully
+2024-08-01T15:41:18.173Z warn: No reviews found
+2024-08-01T15:41:18.174Z error: Error getting all reviews: No reviews found
+2024-08-01T15:41:18.174Z error: No reviews found
+2024-08-01T15:42:14.282Z info: Fetched all users successfully
+2024-08-01T15:42:14.283Z info: Fetched all users successfully
+2024-08-01T15:44:34.464Z info: Fetched all users successfully
+2024-08-01T15:44:34.466Z info: Fetched all users successfully
+2024-08-01T15:47:00.504Z warn: No reviews found
+2024-08-01T15:47:00.504Z error: Error getting all reviews: No reviews found
+2024-08-01T15:47:00.505Z error: No reviews found
+2024-08-01T15:59:59.921Z info: 🚀 Server is running on port 3000
+2024-08-01T16:03:06.035Z info: Movie created successfully
+2024-08-01T16:04:48.315Z info: Movie updated successfully
+2024-08-01T16:04:56.913Z info: Movie deleted successfully
+2024-08-01T16:05:13.737Z warn: No reviews found
+2024-08-01T16:05:13.738Z error: Error getting all reviews: No reviews found
+2024-08-01T16:05:13.739Z error: No reviews found
+2024-08-01T16:05:28.563Z info: Fetched all users successfully
+2024-08-01T16:05:28.564Z info: Fetched all users successfully
+2024-08-01T16:19:26.001Z info: 🚀 Server is running on port 3000
+2024-08-01T16:20:02.649Z info: Movie created successfully
+2024-08-01T16:27:57.184Z info: 🚀 Server is running on port 3000
+2024-08-01T16:34:56.148Z info: Movie created successfully
+2024-08-01T21:22:19.371Z info: 🚀 Server is running on port 3000
+2024-08-01T21:24:10.430Z info: Movie updated successfully
+2024-08-01T21:24:21.547Z warn: No reviews found
+2024-08-01T21:24:21.548Z error: Error getting all reviews: No reviews found
+2024-08-01T21:24:21.549Z error: No reviews found
+2024-08-01T21:25:28.827Z info: Review created successfully
+2024-08-01T21:26:10.372Z info: Review with id 4 updated successfully
+2024-08-01T21:26:54.193Z error: Error updating user with id 7: Duplicate entry 'updateduser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2024-08-01T21:26:54.197Z error: Duplicate entry 'updateduser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2024-08-01T21:27:20.074Z info: User with id 7 deleted successfully
+2024-08-01T21:27:20.075Z info: User deleted successfully with id 7
+2024-08-01T21:34:10.676Z info: GET / - 11ms
+2024-08-01T21:34:14.253Z info: GET / - 2ms
+2024-08-01T21:38:48.069Z info: User created successfully
+2024-08-01T21:38:48.072Z info: User created successfully with id 57
+2024-08-01T21:43:58.808Z info: Review created successfully
+2024-08-01T21:50:59.568Z info: Review created successfully
+2024-08-01T21:53:46.074Z error: Error updating user with id 57: Duplicate entry 'updateduser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2024-08-01T21:53:46.075Z error: Duplicate entry 'updateduser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'
+2024-08-01T21:54:32.269Z info: User with id 57 updated successfully
+2024-08-01T21:54:32.270Z info: User updated successfully with id 57
+2024-08-01T21:55:38.268Z info: User with id 57 deleted successfully
+2024-08-01T21:55:38.270Z info: User deleted successfully with id 57
+2024-08-01T21:56:53.401Z info: Review with id 6 deleted successfully
+2024-08-01T21:58:07.993Z info: Movie created successfully
+2024-08-01T21:58:58.309Z info: Movie updated successfully
+2024-08-01T22:00:01.495Z info: User with id 56 updated successfully
+2024-08-01T22:00:01.497Z info: User updated successfully with id 56
+2024-08-01T22:01:13.652Z info: Review created successfully
+2024-08-01T22:05:55.005Z info: Review created successfully
+2024-08-01T22:20:36.376Z info: 🚀 Server is running on port 3000
+2024-08-01T22:20:37.601Z error: Port 3000 is already in use. Trying a different port...
+2024-08-01T22:20:37.605Z info: 🚀 Server is running on port 3001
+2024-08-01T22:21:06.851Z info: 🚀 Server is running on port 3000
+2024-08-01T22:22:34.245Z info: Review created successfully
+2024-08-01T22:44:06.456Z info: 🚀 Server is running on port 3000
+2024-08-01T22:46:12.482Z info: Review created successfully
+2024-08-01T22:46:12.485Z info: Review created successfully
+2024-08-01T22:50:58.985Z info: Review with id 4 deleted successfully
+2024-08-01T22:50:58.987Z info: Review with id 4 deleted successfully
+2024-08-01T22:51:11.725Z info: Review with id 5 deleted successfully
+2024-08-01T22:51:11.726Z info: Review with id 5 deleted successfully
+2024-08-01T22:51:21.353Z info: Review with id 7 deleted successfully
+2024-08-01T22:51:21.354Z info: Review with id 7 deleted successfully
+2024-08-01T22:51:26.209Z info: Review with id 8 deleted successfully
+2024-08-01T22:51:26.210Z info: Review with id 8 deleted successfully
+2024-08-01T22:51:45.276Z info: Review with id 9 deleted successfully
+2024-08-01T22:51:45.277Z info: Review with id 9 deleted successfully
+2024-08-05T20:22:36.912Z info: 🚀 Server is running on port 3000
+2024-08-05T20:23:00.962Z info: 🚀 Server is running on port 3000
+2024-08-05T20:23:19.819Z info: 🚀 Server is running on port 3000
+2024-08-05T20:23:26.977Z info: 🚀 Server is running on port 3000
+2024-08-05T20:23:31.973Z info: 🚀 Server is running on port 3000
+2024-08-08T14:23:43.963Z info: 🚀 Server is running on port 4000
+2024-08-08T14:24:04.149Z info: Review created successfully
+2024-08-08T14:24:24.211Z info: Review updated successfully
+2024-08-08T14:24:44.265Z info: Review deleted successfully
+2024-08-08T14:25:06.957Z info: 🚀 Server is running on port 4000
+2024-08-08T14:25:27.052Z info: Movie created successfully
+2024-08-08T14:25:47.095Z info: Movie updated successfully
+2024-08-08T14:26:07.127Z info: Movie deleted successfully
+2024-08-08T14:26:29.340Z info: 🚀 Server is running on port 4000
+2024-08-08T14:27:09.453Z info: User updated successfully
+2024-08-08T14:27:09.483Z info: User deleted successfully
+2024-08-08T16:58:57.507Z info: 🚀 Server is running on port 9000
+2024-08-08T17:03:49.227Z info: 🚀 Server is running on port 4000
+2024-08-08T17:04:09.386Z info: Review created successfully
+2024-08-08T17:04:29.443Z info: Review updated successfully
+2024-08-08T17:04:49.486Z info: Review deleted successfully
+2024-08-08T17:05:11.846Z info: 🚀 Server is running on port 4000
+2024-08-08T17:05:31.948Z info: Movie created successfully
+2024-08-08T17:05:52.001Z info: Movie updated successfully
+2024-08-08T17:06:12.041Z info: Movie deleted successfully
+2024-08-08T17:06:33.088Z info: 🚀 Server is running on port 4000
+2024-08-08T17:07:13.205Z info: User updated successfully
+2024-08-08T17:07:13.231Z info: User deleted successfully
+2024-08-08T18:33:00.809Z info: Mock data successfully added to the database.
+2024-08-08T18:33:00.844Z info: 🚀 Server is running on port 4000
+2024-08-08T18:33:20.986Z info: Review created successfully
+2024-08-08T18:33:41.054Z info: Review updated successfully
+2024-08-08T18:34:01.099Z info: Review deleted successfully
+2024-08-08T18:34:23.416Z info: Mock data successfully added to the database.
+2024-08-08T18:34:23.424Z info: 🚀 Server is running on port 4000
+2024-08-08T18:34:48.498Z info: Movie created successfully
+2024-08-08T18:35:26.338Z info: GET / - 15ms
+2024-08-08T18:36:01.345Z info: Mock data successfully added to the database.
+2024-08-08T18:36:01.355Z info: 🚀 Server is running on port 4000
+2024-08-08T19:01:21.171Z info: Mock data successfully added to the database.
+2024-08-08T19:01:21.222Z info: 🚀 Server is running on port 4000
+2024-08-08T19:01:46.428Z info: Movie created successfully
+2024-08-08T19:02:59.614Z info: Mock data successfully added to the database.
+2024-08-08T19:02:59.639Z info: 🚀 Server is running on port 4000
+2024-08-08T19:03:19.890Z info: Review created successfully
+2024-08-08T19:03:39.976Z info: Review updated successfully
+2024-08-08T19:04:00.024Z info: Review deleted successfully
+2024-08-08T19:04:21.135Z info: Mock data successfully added to the database.
+2024-08-08T19:04:21.144Z info: 🚀 Server is running on port 4000
+2024-08-08T19:28:08.359Z info: Mock data successfully added to the database.
+2024-08-08T19:28:09.565Z info: Mock data successfully added to the database.
+2024-08-08T19:28:10.701Z info: Mock data successfully added to the database.
+2024-08-08T21:23:37.782Z info: Mock data successfully added to the database.
+2024-08-08T21:23:39.680Z info: Mock data successfully added to the database.
+2024-08-08T21:23:42.539Z info: Mock data successfully added to the database.
+2024-08-08T21:23:43.549Z info: Mock data successfully added to the database.
+2024-08-08T21:23:45.089Z info: Mock data successfully added to the database.
+2024-08-08T22:05:46.976Z info: Mock data successfully added to the database.
+2024-08-08T22:05:47.335Z info: Data Source connection has been closed!
+2024-08-08T22:05:49.100Z info: Mock data successfully added to the database.
+2024-08-08T22:05:49.244Z info: Data Source connection has been closed!
+2024-08-08T22:05:50.913Z info: Mock data successfully added to the database.
+2024-08-08T22:05:51.085Z info: Data Source connection has been closed!
+2024-08-08T22:05:52.225Z info: Mock data successfully added to the database.
+2024-08-08T22:05:52.739Z info: Mock data successfully added to the database.
+2024-08-08T22:14:54.595Z info: Mock data successfully added to the database.
+2024-08-08T22:14:54.855Z info: Data Source connection has been closed!
+2024-08-08T22:14:56.330Z info: Mock data successfully added to the database.
+2024-08-08T22:14:56.499Z info: Data Source connection has been closed!
+2024-08-08T22:14:57.605Z info: Mock data successfully added to the database.
+2024-08-08T22:14:57.771Z info: Data Source connection has been closed!
+2024-08-08T22:14:59.189Z info: Mock data successfully added to the database.
+2024-08-08T22:15:00.081Z info: Mock data successfully added to the database.
+2024-08-08T22:43:48.056Z info: Data Source connection has been closed!
+2024-08-08T22:43:49.413Z info: Data Source connection has been closed!
+2024-08-08T22:43:50.589Z info: Data Source connection has been closed!
+2024-08-13T14:55:24.819Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T15:27:03.367Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T15:27:04.769Z info: [object Object]
+2024-08-13T15:27:08.076Z info: Data Source connection has been closed!
+2024-08-13T15:27:09.548Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T15:27:09.854Z info: Data Source connection has been closed!
+2024-08-13T15:57:32.506Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T15:57:32.979Z info: Data Source connection has been closed!
+2024-08-13T15:57:34.580Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T15:57:35.226Z info: Data Source connection has been closed!
+2024-08-13T16:13:29.325Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T16:13:30.489Z info: Data Source connection has been closed!
+2024-08-13T16:13:31.835Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T16:13:32.407Z info: Data Source connection has been closed!
+2024-08-13T16:13:33.405Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T16:13:34.203Z info: [object Object]
+2024-08-13T16:50:30.371Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T16:50:30.741Z info: Data Source connection has been closed!
+2024-08-13T16:50:31.846Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T16:50:32.653Z info: [object Object]
+2024-08-13T16:50:33.656Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T16:50:33.878Z info: Data Source connection has been closed!
+2024-08-13T18:20:23.117Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T18:20:23.365Z info: Data Source connection has been closed!
+2024-08-13T18:20:24.752Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T18:20:25.504Z info: Data Source connection has been closed!
+2024-08-13T18:20:26.474Z info: 🚀 Server listening on http://localhost:9001
+2024-08-13T18:20:26.983Z info: Data Source connection has been closed!
+2024-08-14T15:23:22.870Z info: 🚀 Server listening on http://localhost:9000
+2024-08-16T13:34:33.785Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T13:34:34.311Z info: Data Source connection has been closed!
+2024-08-16T13:34:35.946Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T13:34:36.983Z info: [object Object]
+2024-08-16T13:34:37.093Z info: Data Source connection has been closed!
+2024-08-16T13:34:39.107Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T13:34:39.757Z info: Data Source connection has been closed!
+2024-08-16T13:49:47.824Z info: 🚀 Server listening on http://localhost:9000
+2024-08-16T13:54:20.560Z info: 🚀 Server listening on http://localhost:9000
+2024-08-16T17:45:38.121Z info: 🚀 Server listening on http://localhost:9000
+2024-08-16T18:29:09.459Z error: Failed to start server
+2024-08-16T18:29:34.956Z error: Failed to start server
+2024-08-16T18:36:52.765Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T18:36:54.832Z info: Data Source connection has been closed!
+2024-08-16T18:36:59.873Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T18:37:01.801Z info: [object Object]
+2024-08-16T18:37:02.080Z info: Data Source connection has been closed!
+2024-08-16T18:37:04.957Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T18:37:06.033Z info: Data Source connection has been closed!
+2024-08-16T18:47:16.962Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T18:47:17.438Z info: Data Source connection has been closed!
+2024-08-16T18:47:19.005Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T18:47:19.973Z info: [object Object]
+2024-08-16T18:47:20.092Z info: Data Source connection has been closed!
+2024-08-16T18:47:21.255Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T18:47:21.875Z info: Data Source connection has been closed!
+2024-08-16T18:59:08.237Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T18:59:09.240Z info: Data Source connection has been closed!
+2024-08-16T18:59:11.377Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T18:59:12.686Z info: [object Object]
+2024-08-16T18:59:12.835Z info: Data Source connection has been closed!
+2024-08-16T18:59:14.182Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T18:59:14.792Z info: Data Source connection has been closed!
+2024-08-16T19:09:19.371Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T19:09:19.802Z info: Data Source connection has been closed!
+2024-08-16T19:09:21.642Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T19:09:22.644Z info: [object Object]
+2024-08-16T19:09:22.734Z info: Data Source connection has been closed!
+2024-08-16T19:09:24.060Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T19:09:24.689Z info: Data Source connection has been closed!
+2024-08-16T19:12:02.174Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T19:12:02.948Z info: Data Source connection has been closed!
+2024-08-16T19:12:04.720Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T19:12:05.416Z info: Data Source connection has been closed!
+2024-08-16T19:12:07.469Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T19:12:09.465Z info: [object Object]
+2024-08-16T19:12:09.563Z info: Data Source connection has been closed!
+2024-08-16T19:13:24.154Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T19:13:24.527Z info: Data Source connection has been closed!
+2024-08-16T19:13:25.801Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T19:13:26.466Z info: Data Source connection has been closed!
+2024-08-16T19:13:27.232Z info: 🚀 Server listening on http://localhost:9001
+2024-08-16T19:13:28.577Z info: [object Object]
+2024-08-16T19:13:28.666Z info: Data Source connection has been closed!
+2024-08-31T08:58:11.415Z info: 🚀 Server listening on http://localhost:9000
+2024-08-31T14:23:37.888Z info: 🚀 Server listening on http://localhost:9000
+2024-08-31T14:28:40.012Z info: 🚀 Server listening on http://localhost:9001
+2024-08-31T14:28:40.656Z info: [object Object]
+2024-08-31T14:28:40.757Z info: Data Source connection has been closed!
+2024-08-31T14:28:42.091Z info: 🚀 Server listening on http://localhost:9001
+2024-08-31T14:28:42.612Z info: Data Source connection has been closed!
+2024-08-31T14:28:43.623Z info: 🚀 Server listening on http://localhost:9001
+2024-08-31T14:28:44.134Z info: Data Source connection has been closed!
+2024-08-31T19:47:49.201Z info: 🚀 Server listening on http://localhost:9000
+2024-09-01T12:16:25.876Z info: 🚀 Server listening on http://localhost:9000
+2024-09-01T12:23:40.460Z info: 🚀 Server listening on http://localhost:9001
+2024-09-01T12:23:41.139Z info: [object Object]
+2024-09-01T12:23:41.245Z info: Data Source connection has been closed!
+2024-09-01T12:23:42.577Z info: 🚀 Server listening on http://localhost:9001
+2024-09-01T12:23:43.143Z info: Data Source connection has been closed!
+2024-09-01T12:23:44.192Z info: 🚀 Server listening on http://localhost:9001
+2024-09-01T12:23:44.673Z info: Data Source connection has been closed!
+2024-09-01T13:42:52.545Z info: 🚀 Server listening on http://localhost:9000
+2024-09-01T13:45:11.588Z info: 🚀 Server listening on http://localhost:9000
+2024-09-01T13:45:11.818Z info: Data Source connection has been closed!
+2024-09-01T13:45:53.690Z info: 🚀 Server listening on http://localhost:9000
+2024-09-01T13:45:54.217Z info: [object Object]
+2024-09-01T13:45:54.277Z info: Data Source connection has been closed!
+2024-09-01T13:46:21.072Z info: 🚀 Server listening on http://localhost:9000
+2024-09-01T13:46:21.297Z info: Data Source connection has been closed!
+2024-09-01T13:47:11.391Z info: 🚀 Server listening on http://localhost:9000
+2024-09-01T13:47:11.989Z info: Data Source connection has been closed!
+2024-09-01T13:48:45.889Z info: 🚀 Server listening on http://localhost:9000
+2024-09-01T13:48:46.850Z info: [object Object]
+2024-09-01T13:48:46.921Z info: Data Source connection has been closed!
+2024-09-01T13:48:59.401Z info: 🚀 Server listening on http://localhost:9000
+2024-09-01T13:48:59.857Z info: Data Source connection has been closed!
+2024-09-01T14:45:47.170Z info: 🚀 Server listening on http://localhost:9000
+2024-09-01T15:47:35.617Z info: 🚀 Server listening on http://localhost:9001
+2024-09-01T15:47:36.301Z info: [object Object]
+2024-09-01T15:47:36.381Z info: Data Source connection has been closed!
+2024-09-01T15:47:37.255Z info: 🚀 Server listening on http://localhost:9001
+2024-09-01T15:47:37.831Z info: Data Source connection has been closed!
+2024-09-01T15:47:38.474Z info: 🚀 Server listening on http://localhost:9001
+2024-09-01T15:47:38.957Z info: Data Source connection has been closed!
+2024-09-01T19:52:27.710Z info: 🚀 Server listening on http://localhost:9000
+2024-09-02T12:51:29.083Z info: 🚀 Server listening on http://localhost:9001
+2024-09-02T12:51:29.946Z info: [object Object]
+2024-09-02T12:51:30.029Z info: Data Source connection has been closed!
+2024-09-02T12:51:31.323Z info: 🚀 Server listening on http://localhost:9001
+2024-09-02T12:51:32.024Z info: Data Source connection has been closed!
+2024-09-02T12:51:33.081Z info: 🚀 Server listening on http://localhost:9001
+2024-09-02T12:51:33.718Z info: Data Source connection has been closed!
+2024-09-02T12:56:30.854Z info: 🚀 Server listening on http://localhost:9000
+2024-09-02T13:09:38.957Z info: 🚀 Server listening on http://localhost:9001
+2024-09-02T13:09:41.277Z info: [object Object]
+2024-09-02T13:09:41.697Z info: Data Source connection has been closed!
+2024-09-02T13:09:45.107Z info: 🚀 Server listening on http://localhost:9001
+2024-09-02T13:09:46.050Z info: Data Source connection has been closed!
+2024-09-02T13:09:47.415Z info: 🚀 Server listening on http://localhost:9001
+2024-09-02T13:09:48.310Z info: Data Source connection has been closed!
+2024-12-20T22:41:36.216Z error: Failed to start server

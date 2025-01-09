@@ -1,0 +1,34 @@
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:26.898Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:27.283Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:36.226Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:36.324Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:36.425Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:36.628Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:38.809Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T22:47:38.831Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:27.769Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:27.921Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:28.008Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:28.469Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:30.504Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:30.564Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:31.820Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:00:31.888Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:09.690Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:09.835Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:11.405Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:11.532Z"}
+{"level":"error","message":"Error creating review: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:12.943Z"}
+{"level":"error","message":"Error getting review with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:13.053Z"}
+{"level":"error","message":"Error creating user: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:14.165Z"}
+{"level":"error","message":"Error fetching user with id 1: Connection is not established with mysql database","timestamp":"2024-08-05T23:02:14.236Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:37:51.596Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:37:54.664Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:44:15.287Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:44:19.477Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:57:30.250Z"}
+{"level":"error","message":"Error fetching user with id 999: User with id 999 not found","timestamp":"2024-08-05T23:57:30.581Z"}
+{"level":"error","message":"Error creating user: Duplicate entry 'testuser' for key 'user.IDX_78a916df40e02a9deb1c4b75ed'","timestamp":"2024-08-05T23:57:31.325Z"}
+{"level":"error","message":"Error fetching user with id 999: User with id 999 not found","timestamp":"2024-08-05T23:57:31.461Z"}
+{"level":"error","message":"Error getting review with id 999: Review with id 999 not found","timestamp":"2024-08-05T23:57:33.288Z"}
+{"level":"error","message":"Error getting review with id 999: Review with id 999 not found","timestamp":"2024-08-05T23:57:33.930Z"}
