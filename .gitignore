@@ -132,3 +132,8 @@ dist
 node_modules/
 dist/
 
+# Ignore the dist directory
+dist/
+
+# Ignore the coverage directory
+coverage/
